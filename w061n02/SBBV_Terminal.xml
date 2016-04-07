@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PropertyList>
+<path>SBBV_Terminal.ac</path>
+<animation>
+<type>range</type>
+<min-m>0</min-m>
+<max-m>10000</max-m>
+</animation>
+<animation>
+<type>alpha-test</type>
+<alpha-factor>0.01</alpha-factor>
+</animation>
+<model>
+  <path>Models/Effects/RedLight10000.xml</path>
+  <offsets>
+  <x-m>44.68</x-m>
+  <y-m>6.8</y-m>
+  <z-m>20.77</z-m>
+  </offsets>
+</model>
+</PropertyList>
